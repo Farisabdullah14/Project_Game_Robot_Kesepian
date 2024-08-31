@@ -15,7 +15,6 @@
         public Animator playerAnim;
         public Rigidbody playerRigid;
         public bool walking;
-        public Transform playerTrans;
 
 
         private void Start()
